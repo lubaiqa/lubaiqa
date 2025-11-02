@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey! I'm <span style="color:#00FFFF;">Lubaiqa Asif</span></h1>
+<h1 align="center"> Hey! I'm <span style="color:#00FFFF;">Lubaiqa Asif</span></h1>
 
 <p align="center">
    <b>MERN Stack Developer</b> | Crafting digital experiences with passion and precision 💻 <br>
