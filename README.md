@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">👋 Hey! I'm <span style="color:#00FFFF;">Lubaiqa Asif</span></h1>
 
-<!--
-**lubaiqa/lubaiqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+   <b>MERN Stack Developer</b> | Crafting digital experiences with passion and precision 💻 <br>
+   Where design meets functionality — and imagination meets code. <br>
+   Always learning, improving, and pushing my limits.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  About Me
+-  Turning ideas into reality through design and code.  
+-  Constantly exploring new technologies and tools.  
+-  Believer in “Progress over Perfection.”  
+-  Software Engineering Student | Building my way into the tech world.  
+
+---
+
+###  Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,wordpress,github,vscode,figma" />
+</p>
+
+---
+
+###  Connect With Me
+<p align="center">
+  <a href="mailto:lubaiqa.asif01@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lubaiqa-asif-8aa1b9390/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/lubaiqa" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+
+<p align="center">
+   “Code with purpose, learn with passion, and grow with every commit.” 
+</p>
