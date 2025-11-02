@@ -9,10 +9,10 @@
 ---
 
 ###  About Me
--  Turning ideas into reality through design and code.  
--  Constantly exploring new technologies and tools.  
 -  Believer in “Progress over Perfection.”  
 -  Software Engineering Student | Building my way into the tech world.  
+-  Turning ideas into reality through design and code.  
+-  Constantly exploring new technologies and tools.  
 
 ---
 
